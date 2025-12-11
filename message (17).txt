@@ -1,0 +1,242 @@
+<!DOCTYPE html><!--pWMMTFIGBXar4lEqgy5MO-->
+<html lang="en" class="inter_442cfc22-module__NxEuJG__className">
+   <head>
+      <meta charSet="utf-8"/>
+      <meta name="viewport" content="width=device-width, initial-scale=1"/>
+      <link rel="preload" href="/_next/static/media/21755af0da622840-s.p.dbe91c46.woff2" as="font" crossorigin="" type="font/woff2"/>
+      <link rel="preload" href="/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2" as="font" crossorigin="" type="font/woff2"/>
+      <link rel="stylesheet" href="/_next/static/chunks/5719915bd83bc769.css" data-precedence="next"/>
+      <link rel="preload" as="script" fetchPriority="low" href="/_next/static/chunks/0228d08c822e8745.js"/>
+      <script src="/_next/static/chunks/ff3dd2ae6798e651.js" async=""></script><script src="/_next/static/chunks/e788ab75e9e92d2e.js" async=""></script><script src="/_next/static/chunks/2cb92f35b29582c8.js" async=""></script><script src="/_next/static/chunks/a2a4f31fc3193535.js" async=""></script><script src="/_next/static/chunks/turbopack-995c8247b28d00c0.js" async=""></script><script src="/_next/static/chunks/2f27a62e02032489.js" async=""></script><script src="/_next/static/chunks/786b5716da7c9450.js" async=""></script><script src="/_next/static/chunks/f58dfaf2f655542e.js" async=""></script><script src="/_next/static/chunks/7885088173881a17.js" async=""></script><script src="/_next/static/chunks/a7fd9e73474ebd21.js" async=""></script><script src="/_next/static/chunks/2805fcd0b3c95426.js" async=""></script><script src="/_next/static/chunks/e70a0cb32e23ae2b.js" async=""></script><script src="/_next/static/chunks/8f409289da7c2787.js" async=""></script><script src="/_next/static/chunks/804e43d78c889098.js" async=""></script><script src="/_next/static/chunks/f1a43d0cb3c6e4ce.js" async=""></script><script src="/_next/static/chunks/a376ba34db7a5e2f.js" async=""></script><script src="/_next/static/chunks/6ad6d65e89d74c0e.js" async=""></script>
+      <link rel="preload" href="https://www.googletagmanager.com/gtag/js?id=G-3MGQ9TB7KT" as="script"/>
+      <link rel="preload" href="/assets/js/on-click-monetag.js" as="script"/>
+      <link rel="preload" href="https://bvtpk.com/tag.min.js" as="script"/>
+      <link rel="preload" href="https://ptichoolsougn.net/401/9432448" as="script"/>
+      <link rel="preload" href="https://wugroansaghadry.com/401/9432450" as="script"/>
+      <meta name="next-size-adjust" content=""/>
+      <title>Live Items Block Spin - BloxScript</title>
+      <meta name="description" content="Redirecting Experience the most advanced Block Spin Script — the ultimate tool for tracking live in-game items in real time. Instantly view and monitor active drops, and join specific servers directly using Job ID. Optimized for 2025, lightning-fast, and 100% reliable on both PC and mobile."/>
+      <link rel="manifest" href="/manifest.json"/>
+      <meta name="robots" content="index,follow"/>
+      <link rel="canonical" href="https://blox-script.com/block-spin/items-snipe"/>
+      <meta property="og:title" content="Live Items Block Spin - BloxScript"/>
+      <meta property="og:description" content="Redirecting Experience the most advanced Block Spin Script — the ultimate tool for tracking live in-game items in real time. Instantly view and monitor active drops, and join specific servers directly using Job ID. Optimized for 2025, lightning-fast, and 100% reliable on both PC and mobile."/>
+      <meta property="og:url" content="https://blox-script.com/block-spin/items-snipe"/>
+      <meta property="og:site_name" content="BloxScript"/>
+      <meta property="og:image" content="https://blox-script.com/assets/images/website-1.jpg"/>
+      <meta property="og:image:alt" content="Blox Script Image 1"/>
+      <meta property="og:image:type" content="image/jpeg"/>
+      <meta property="og:image:width" content="1200"/>
+      <meta property="og:image:height" content="630"/>
+      <meta property="og:type" content="website"/>
+      <meta name="twitter:card" content="summary_large_image"/>
+      <meta name="twitter:site" content="@site"/>
+      <meta name="twitter:creator" content="@handle"/>
+      <meta name="twitter:title" content="Live Items Block Spin - BloxScript"/>
+      <meta name="twitter:description" content="Redirecting Experience the most advanced Block Spin Script — the ultimate tool for tracking live in-game items in real time. Instantly view and monitor active drops, and join specific servers directly using Job ID. Optimized for 2025, lightning-fast, and 100% reliable on both PC and mobile."/>
+      <meta name="twitter:image" content="https://blox-script.com/assets/images/website-1.jpg"/>
+      <meta name="twitter:image:alt" content="Blox Script Image 1"/>
+      <meta name="twitter:image:type" content="image/jpeg"/>
+      <meta name="twitter:image:width" content="1200"/>
+      <meta name="twitter:image:height" content="630"/>
+      <link rel="icon" href="/favicon-32x32.png" sizes="32x32" type="image/png"/>
+      <link rel="icon" href="/favicon-16x16.png" sizes="16x16" type="image/png"/>
+      <link rel="icon" href="/favicon.ico" type="image/x-icon"/>
+      <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" type="image/png"/>
+      <link rel="apple-touch-icon" href="/apple-touch-icon-precomposed.png" sizes="180x180" type="image/png"/>
+      <link rel="icon" href="/android-chrome-192x192.png" sizes="192x192" type="image/png"/>
+      <link rel="icon" href="/android-chrome-512x512.png" sizes="512x512" type="image/png"/>
+      <script src="/_next/static/chunks/a6dad97d9634a72d.js" noModule=""></script>
+   </head>
+   <body>
+      <div hidden="">
+         <!--$--><!--/$-->
+      </div>
+      <script>((a,b,c,d,e,f,g,h)=>{let i=document.documentElement,j=["light","dark"];function k(b){var c;(Array.isArray(a)?a:[a]).forEach(a=>{let c="class"===a,d=c&&f?e.map(a=>f[a]||a):e;c?(i.classList.remove(...d),i.classList.add(f&&f[b]?f[b]:b)):i.setAttribute(a,b)}),c=b,h&&j.includes(c)&&(i.style.colorScheme=c)}if(d)k(d);else try{let a=localStorage.getItem(b)||c,d=g&&"system"===a?window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light":a;k(d)}catch(a){}})("class","theme","system",null,["light","dark"],null,true,true)</script>
+      <main>
+         <div class="layout-wrapper">
+            <div class="dark grid-background absolute top-20 right-0 left-0 hidden h-[500px]"></div>
+            <div class="container relative mx-auto max-w-[1174px] px-4">
+               <header class="christmas-lights fixed top-0 right-0 left-0 z-50 border-gray-200/50 border-b bg-background shadow-sm dark:border-border dark:bg-card">
+                  <nav class="container mx-auto max-w-[1174px] px-4 py-5">
+                     <div class="grid grid-cols-[1fr_auto_1fr] items-center gap-4">
+                        <div class="flex items-center justify-start">
+                           <button type="button" class="relative z-50 cursor-pointer text-green-500" aria-label="Toggle mobile menu">
+                              <div class="flex h-8 w-8 flex-col items-center justify-around py-1">
+                                 <div class="h-[2.45px] w-6 origin-center bg-current transition-all duration-300"></div>
+                                 <div class="h-[2.45px] w-6 bg-current transition-all duration-300 scale-x-100 opacity-100"></div>
+                                 <div class="h-[2.45px] w-6 origin-center bg-current transition-all duration-300"></div>
+                              </div>
+                           </button>
+                        </div>
+                        <div class="flex items-center justify-center"><a href="/" class="rounded-md bg-green-500/90 px-[9px] font-medium text-[28px] text-white leading-[1.25]">B</a></div>
+                        <div class="flex items-center justify-end">
+                           <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sun" aria-hidden="true">
+                              <circle cx="12" cy="12" r="4"></circle>
+                              <path d="M12 2v2"></path>
+                              <path d="M12 20v2"></path>
+                              <path d="m4.93 4.93 1.41 1.41"></path>
+                              <path d="m17.66 17.66 1.41 1.41"></path>
+                              <path d="M2 12h2"></path>
+                              <path d="M20 12h2"></path>
+                              <path d="m6.34 17.66-1.41 1.41"></path>
+                              <path d="m19.07 4.93-1.41 1.41"></path>
+                           </svg>
+                        </div>
+                     </div>
+                  </nav>
+               </header>
+               <aside class="fixed top-10 right-0 left-0 z-40 max-h-screen min-h-screen overflow-y-auto bg-card transition-transform duration-300 ease-in-out -translate-x-full">
+                  <nav class="px-6 pt-20 pb-8">
+                     <ul class="space-y-6">
+                        <li>
+                           <a href="/" class="flex items-center space-x-4 rounded-xl border-b-4 border-b-green-500 px-3 bg-gray-100/50 shadow-sm hover:text-green-500 dark:bg-muted-foreground/15 py-3 text-lg transition-colors">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-house" aria-hidden="true">
+                                 <path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"></path>
+                                 <path d="M3 10a2 2 0 0 1 .709-1.528l7-6a2 2 0 0 1 2.582 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                              </svg>
+                              <span>Home</span>
+                           </a>
+                        </li>
+                        <li>
+                           <a href="/scripts" class="flex items-center space-x-4 rounded-xl border-b-4 border-b-green-500 px-3 bg-gray-100/50 shadow-sm hover:text-green-500 dark:bg-muted-foreground/15 py-3 text-lg transition-colors">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-code" aria-hidden="true">
+                                 <path d="m16 18 6-6-6-6"></path>
+                                 <path d="m8 6-6 6 6 6"></path>
+                              </svg>
+                              <span>Scripts</span>
+                           </a>
+                        </li>
+                        <li>
+                           <a href="/exploits" class="flex items-center space-x-4 rounded-xl border-b-4 border-b-green-500 px-3 bg-gray-100/50 shadow-sm hover:text-green-500 dark:bg-muted-foreground/15 py-3 text-lg transition-colors">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-app-window" aria-hidden="true">
+                                 <rect x="2" y="4" width="20" height="16" rx="2"></rect>
+                                 <path d="M10 4v4"></path>
+                                 <path d="M2 8h20"></path>
+                                 <path d="M6 4v4"></path>
+                              </svg>
+                              <span>Executers</span>
+                           </a>
+                        </li>
+                        <li>
+                           <a href="/get-key" class="flex items-center space-x-4 rounded-xl border-b-4 border-b-green-500 px-3 bg-gray-100/50 shadow-sm hover:text-green-500 dark:bg-muted-foreground/15 py-3 text-lg transition-colors">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-key" aria-hidden="true">
+                                 <path d="m15.5 7.5 2.3 2.3a1 1 0 0 0 1.4 0l2.1-2.1a1 1 0 0 0 0-1.4L19 4"></path>
+                                 <path d="m21 2-9.6 9.6"></path>
+                                 <circle cx="7.5" cy="15.5" r="5.5"></circle>
+                              </svg>
+                              <span>Get Key</span>
+                           </a>
+                        </li>
+                        <li>
+                           <a href="/block-spin/items-snipe" class="flex items-center space-x-4 rounded-xl border-b-4 border-b-green-500 px-3 bg-gray-100/50 shadow-sm hover:text-green-500 dark:bg-muted-foreground/15 py-3 text-lg transition-colors">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-radio" aria-hidden="true">
+                                 <path d="M16.247 7.761a6 6 0 0 1 0 8.478"></path>
+                                 <path d="M19.075 4.933a10 10 0 0 1 0 14.134"></path>
+                                 <path d="M4.925 19.067a10 10 0 0 1 0-14.134"></path>
+                                 <path d="M7.753 16.239a6 6 0 0 1 0-8.478"></path>
+                                 <circle cx="12" cy="12" r="2"></circle>
+                              </svg>
+                              <span>Live Items</span>
+                           </a>
+                        </li>
+                        <li>
+                           <a href="/script-manager" class="flex items-center space-x-4 rounded-xl border-b-4 border-b-green-500 px-3 bg-gray-100/50 shadow-sm hover:text-green-500 dark:bg-muted-foreground/15 py-3 text-lg transition-colors">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-file-code" aria-hidden="true">
+                                 <path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z"></path>
+                                 <path d="M14 2v5a1 1 0 0 0 1 1h5"></path>
+                                 <path d="M10 12.5 8 15l2 2.5"></path>
+                                 <path d="m14 12.5 2 2.5-2 2.5"></path>
+                              </svg>
+                              <span>Script Manager</span>
+                           </a>
+                        </li>
+                        <li>
+                           <a href="https://discord.gg/tgnNk89jdc" class="flex items-center space-x-4 rounded-xl border-b-4 border-b-green-500 px-3 bg-gray-100/50 shadow-sm hover:text-green-500 dark:bg-muted-foreground/15 py-3 text-lg transition-colors">
+                              <svg class="size-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 127.14 96.36" fill="currentColor">
+                                 <title>Discord Icon</title>
+                                 <path d="M107.7,8.07A105.15,105.15,0,0,0,81.47,0a72.06,72.06,0,0,0-3.36,6.83A97.68,97.68,0,0,0,49,6.83,72.37,72.37,0,0,0,45.64,0,105.89,105.89,0,0,0,19.39,8.09C2.79,32.65-1.71,56.6.54,80.21h0A105.73,105.73,0,0,0,32.71,96.36,77.7,77.7,0,0,0,39.6,85.25a68.42,68.42,0,0,1-10.85-5.18c.91-.66,1.8-1.34,2.66-2a75.57,75.57,0,0,0,64.32,0c.87.71,1.76,1.39,2.66,2a68.68,68.68,0,0,1-10.87,5.19,77,77,0,0,0,6.89,11.1A105.25,105.25,0,0,0,126.6,80.22h0C129.24,52.84,122.09,29.11,107.7,8.07ZM42.45,65.69C36.18,65.69,31,60,31,53s5-12.74,11.43-12.74S54,46,53.89,53,48.84,65.69,42.45,65.69Zm42.24,0C78.41,65.69,73.25,60,73.25,53s5-12.74,11.44-12.74S96.23,46,96.12,53,91.08,65.69,84.69,65.69Z"></path>
+                              </svg>
+                              <span>Discord</span>
+                           </a>
+                        </li>
+                     </ul>
+                  </nav>
+               </aside>
+               <div class="h-20"></div>
+               <div class="flex min-h-[80vh] w-full flex-col">
+                  <div class="show-grid mt-10 mb-10 flex flex-col items-center md:mt-20">
+                     <h1 class="text-center font-extrabold text-5xl text-black max-sm:text-4xl dark:text-white">BloxScript</h1>
+                     <h1 class="text-center font-extrabold text-5xl max-sm:text-4xl md:h-[52px] bg-gradient-to-r from-green-500 via-orange-500 to-purple-500 bg-clip-text text-transparent">Live Items Block Spin</h1>
+                     <p class="mt-4 line-clamp-2 max-w-[800px] text-center text-gray-600 dark:text-white/70">Experience the most advanced Block Spin Script — the ultimate tool for tracking live in-game items in real time. Instantly view and monitor active drops, and join specific servers directly using Job ID. Optimized for 2025, lightning-fast, and 100% reliable on both PC and mobile.</p>
+                  </div>
+                  <span hidden="" style="position:fixed;top:1px;left:1px;width:1px;height:0;padding:0;margin:-1px;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none"></span>
+                  <div class="mb-8 space-y-4">
+                     <div class="mx-auto flex w-full max-w-[815px] flex-col items-center justify-center gap-3 rounded-lg border bg-white p-3 shadow-lg md:flex-row dark:border-border dark:bg-card">
+                        <div class="relative w-full rounded-lg bg-white dark:bg-card">
+                           <input type="text" placeholder="Search for items..." class="w-full rounded-lg border-2 border-green-500 px-2.5 py-2 pl-[45px] transition-all duration-150 ease-in-out focus:outline-0 dark:placeholder:text-white/70" value=""/>
+                           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-search absolute top-2.5 left-3.5 text-gray-500 dark:text-foreground" aria-hidden="true">
+                              <path d="m21 21-4.34-4.34"></path>
+                              <circle cx="11" cy="11" r="8"></circle>
+                           </svg>
+                        </div>
+                        <div class="h-px w-full bg-border md:h-8 md:w-px"></div>
+                        <div class="flex w-fit items-center justify-center gap-2 max-md:flex-wrap"><button type="button" class="cursor-pointer rounded-lg border-2 px-3 py-2 font-medium text-sm transition-all duration-200 border-green-500 bg-green-500/20">AirDrop</button><button type="button" class="cursor-pointer rounded-lg border-2 px-3 py-2 font-medium text-sm transition-all duration-200 border-red-500 bg-red-500/20">Omega</button><button type="button" class="cursor-pointer rounded-lg border-2 px-3 py-2 font-medium text-sm transition-all duration-200 border-yellow-500 bg-yellow-500/20">Legendary</button><button type="button" class="cursor-pointer rounded-lg border-2 px-3 py-2 font-medium text-sm transition-all duration-200 border-purple-500 bg-purple-500/20">Epic</button></div>
+                        <div class="h-px w-full bg-border md:h-8 md:w-px"></div>
+                        <button data-slot="dropdown-menu-trigger" class="inline-flex shrink-0 items-center justify-center gap-2 whitespace-nowrap rounded-md outline-none transition-all focus-visible:border-ring focus-visible:ring-[3px] focus-visible:ring-ring/50 disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 [&amp;_svg:not([class*=&#x27;size-&#x27;])]:size-4 [&amp;_svg]:pointer-events-none [&amp;_svg]:shrink-0 bg-background shadow-xs hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:hover:bg-input/50 has-[&gt;svg]:px-3 group h-auto border-2 px-3 py-2 font-medium text-sm dark:border-border" type="button" id="radix-_R_1bav5ubt9fjb_" aria-haspopup="menu" aria-expanded="false" data-state="closed">
+                           <span>Servers</span>
+                           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-down ml-2 h-4 w-4 transition-transform duration-200 group-data-[state=open]:rotate-180" aria-hidden="true">
+                              <path d="m6 9 6 6 6-6"></path>
+                           </svg>
+                        </button>
+                     </div>
+                  </div>
+                  <div class="pb-10">
+                     <div class="mt-20 space-y-5 text-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-brush-cleaning mx-auto text-gray-500 dark:text-muted-foreground" aria-hidden="true">
+                           <path d="m16 22-1-4"></path>
+                           <path d="M19 13.99a1 1 0 0 0 1-1V12a2 2 0 0 0-2-2h-3a1 1 0 0 1-1-1V4a2 2 0 0 0-4 0v5a1 1 0 0 1-1 1H6a2 2 0 0 0-2 2v.99a1 1 0 0 0 1 1"></path>
+                           <path d="M5 14h14l1.973 6.767A1 1 0 0 1 20 22H4a1 1 0 0 1-.973-1.233z"></path>
+                           <path d="m8 22 1-4"></path>
+                        </svg>
+                        <p class="text-gray-500 text-lg dark:text-muted-foreground">No items yet. Waiting for new items...</p>
+                     </div>
+                  </div>
+                  <!--$--><!--/$-->
+               </div>
+               <footer class="mt-20 border-gray-200 border-t py-10 text-center text-lg dark:border-card">
+                  <div class="group relative mx-auto max-w-[446px]">
+                     <div class="absolute top-0 right-0 left-0 z-10 flex h-[76px] w-full items-center rounded-t-lg bg-green-500 px-4 text-white">
+                        <a href="https://discord.gg/tgnNk89jdc" target="_blank" rel="noopener noreferrer" class="flex items-center p-2">
+                           <svg class="mr-2 ml-1 size-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 127.14 96.36" fill="currentColor">
+                              <title>Discord Icon</title>
+                              <path d="M107.7,8.07A105.15,105.15,0,0,0,81.47,0a72.06,72.06,0,0,0-3.36,6.83A97.68,97.68,0,0,0,49,6.83,72.37,72.37,0,0,0,45.64,0,105.89,105.89,0,0,0,19.39,8.09C2.79,32.65-1.71,56.6.54,80.21h0A105.73,105.73,0,0,0,32.71,96.36,77.7,77.7,0,0,0,39.6,85.25a68.42,68.42,0,0,1-10.85-5.18c.91-.66,1.8-1.34,2.66-2a75.57,75.57,0,0,0,64.32,0c.87.71,1.76,1.39,2.66,2a68.68,68.68,0,0,1-10.87,5.19,77,77,0,0,0,6.89,11.1A105.25,105.25,0,0,0,126.6,80.22h0C129.24,52.84,122.09,29.11,107.7,8.07ZM42.45,65.69C36.18,65.69,31,60,31,53s5-12.74,11.43-12.74S54,46,53.89,53,48.84,65.69,42.45,65.69Zm42.24,0C78.41,65.69,73.25,60,73.25,53s5-12.74,11.44-12.74S96.23,46,96.12,53,91.08,65.69,84.69,65.69Z"></path>
+                           </svg>
+                           <span class="font-semibold">Discord</span>
+                        </a>
+                        <span class="mr-1 ml-auto line-clamp-1 text-sm">2153 Members Online</span>
+                     </div>
+                     <div class="mt-4 w-full max-w-md">
+                        <div class="h-[200px] rounded-lg border border-gray-200 bg-transparent p-4">
+                           <div class="flex items-center gap-3">
+                              <div data-slot="skeleton" class="animate-pulse bg-accent h-10 w-10 rounded-full"></div>
+                              <div class="flex-1">
+                                 <div data-slot="skeleton" class="animate-pulse rounded-md bg-accent mb-2 h-4 w-3/4"></div>
+                                 <div data-slot="skeleton" class="animate-pulse rounded-md bg-accent h-3 w-1/2"></div>
+                              </div>
+                              <div data-slot="skeleton" class="animate-pulse bg-accent h-8 w-20 rounded-md"></div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <span class="mt-9 flex w-full justify-center text-center text-sm">
+                     © 2025<!-- --> <a href="/" class="ml-1 text-green-500">BloxScript</a>. All rights reserved.
+                  </span>
+               </footer>
+            </div>
+         </div>
+      </main>
+      <section aria-label="Notifications alt+T" tabindex="-1" aria-live="polite" aria-relevant="additions text" aria-atomic="false"></section>
+      <script src="/_next/static/chunks/0228d08c822e8745.js" id="_R_" async=""></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,"1:\"$Sreact.fragment\"\n2:I[362,[\"/_next/static/chunks/2f27a62e02032489.js\",\"/_next/static/chunks/786b5716da7c9450.js\"],\"ThemeProvider\"]\n3:I[83677,[\"/_next/static/chunks/f58dfaf2f655542e.js\",\"/_next/static/chunks/7885088173881a17.js\"],\"default\"]\n4:I[94933,[\"/_next/static/chunks/f58dfaf2f655542e.js\",\"/_next/static/chunks/7885088173881a17.js\"],\"default\"]\n5:I[95403,[\"/_next/static/chunks/2f27a62e02032489.js\",\"/_next/static/chunks/786b5716da7c9450.js\"],\"Toaster\"]\n6:I[569,[\"/_next/static/chunks/2f27a62e02032489.js\",\"/_next/static/chunks/786b5716da7c9450.js\"],\"GoogleAnalytics\"]\n7:I[27821,[\"/_next/static/chunks/2f27a62e02032489.js\",\"/_next/static/chunks/786b5716da7c9450.js\",\"/_next/static/chunks/a7fd9e73474ebd21.js\",\"/_next/static/chunks/2805fcd0b3c95426.js\"],\"default\"]\ne:I[97329,[\"/_next/static/chunks/f58dfaf2f655542e.js\",\"/_next/static/chunks/7885088173881a17.js\"],\"default\"]\n:HL[\"/_next/static/chunks/5719915bd83bc769.css\",\"style\"]\n:HL[\"/_next/static/media/21755af0da622840-s.p.dbe91c46.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n:HL[\"/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n"])</script><script>self.__next_f.push([1,"0:{\"P\":null,\"b\":\"pWMMTFIGBXar4lEqgy5MO\",\"c\":[\"\",\"block-spin\",\"items-snipe\"],\"q\":\"\",\"i\":false,\"f\":[[[\"\",{\"children\":[\"(main)\",{\"children\":[\"block-spin\",{\"children\":[\"items-snipe\",{\"children\":[\"__PAGE__\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[[\"$\",\"$1\",\"c\",{\"children\":[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/5719915bd83bc769.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-0\",{\"src\":\"/_next/static/chunks/2f27a62e02032489.js\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-1\",{\"src\":\"/_next/static/chunks/786b5716da7c9450.js\",\"async\":true,\"nonce\":\"$undefined\"}]],[\"$\",\"html\",null,{\"lang\":\"en\",\"className\":\"inter_442cfc22-module__NxEuJG__className\",\"suppressHydrationWarning\":true,\"children\":[\"$\",\"body\",null,{\"children\":[[\"$\",\"$L2\",null,{\"attribute\":\"class\",\"defaultTheme\":\"system\",\"enableSystem\":true,\"disableTransitionOnChange\":true,\"children\":[\"$\",\"main\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L4\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[[\"$\",\"div\",null,{\"className\":\"container mx-auto flex min-h-[calc(100vh-200px)] flex-col items-center justify-center px-4 py-16\",\"children\":[[\"$\",\"h1\",null,{\"className\":\"mb-4 text-center font-bold text-4xl md:text-6xl\",\"children\":\"404\"}],[\"$\",\"h2\",null,{\"className\":\"mb-6 text-center font-semibold text-2xl text-green-500 md:text-3xl\",\"children\":\"Page Not Found\"}],[\"$\",\"p\",null,{\"className\":\"mb-8 max-w-md text-center text-lg text-muted-foreground\",\"children\":\"The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.\"}],[\"$\",\"a\",null,{\"href\":\"/\",\"className\":\"flex items-center rounded-lg bg-green-500 px-3 py-2 font-medium text-white transition-colors hover:bg-green-600\",\"children\":[\"Return to Homepage\",[\"$\",\"svg\",null,{\"ref\":\"$undefined\",\"xmlns\":\"http://www.w3.org/2000/svg\",\"width\":20,\"height\":20,\"viewBox\":\"0 0 24 24\",\"fill\":\"none\",\"stroke\":\"currentColor\",\"strokeWidth\":2.5,\"strokeLinecap\":\"round\",\"strokeLinejoin\":\"round\",\"className\":\"lucide lucide-arrow-right ml-2\",\"aria-hidden\":\"true\",\"children\":[[\"$\",\"path\",\"1ays0h\",{\"d\":\"M5 12h14\"}],[\"$\",\"path\",\"xquz4c\",{\"d\":\"m12 5 7 7-7 7\"}],\"$undefined\"]}]]}]]}],[]],\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}]}]}],[\"$\",\"$L5\",null,{\"position\":\"top-center\",\"closeButton\":true,\"richColors\":true,\"expand\":true}],[\"$\",\"$L6\",null,{\"gaId\":\"G-3MGQ9TB7KT\"}]]}]}]]}],{\"children\":[[\"$\",\"$1\",\"c\",{\"children\":[[[\"$\",\"script\",\"script-0\",{\"src\":\"/_next/static/chunks/a7fd9e73474ebd21.js\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-1\",{\"src\":\"/_next/static/chunks/2805fcd0b3c95426.js\",\"async\":true,\"nonce\":\"$undefined\"}]],[\"$\",\"div\",null,{\"className\":\"layout-wrapper\",\"children\":[[\"$\",\"div\",null,{\"className\":\"dark grid-background absolute top-20 right-0 left-0 hidden h-[500px]\"}],[\"$\",\"div\",null,{\"className\":\"container relative mx-auto max-w-[1174px] px-4\",\"children\":[[\"$\",\"$L7\",null,{}],[\"$\",\"div\",null,{\"className\":\"flex min-h-[80vh] w-full flex-col\",\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L4\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[[\"$\",\"div\",null,{\"className\":\"container mx-auto flex min-h-[calc(100vh-200px)] flex-col items-center justify-center px-4 py-16\",\"children\":[[\"$\",\"h1\",null,{\"className\":\"mb-4 text-center font-bold text-4xl md:text-6xl\",\"children\":\"404\"}],[\"$\",\"h2\",null,{\"className\":\"mb-6 text-center font-semibold text-2xl text-green-500 md:text-3xl\",\"children\":\"Page Not Found\"}],[\"$\",\"p\",null,{\"className\":\"mb-8 max-w-md text-center text-lg text-muted-foreground\",\"children\":\"The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.\"}],[\"$\",\"a\",null,{\"href\":\"/\",\"className\":\"flex items-center rounded-lg bg-green-500 px-3 py-2 font-medium text-white transition-colors hover:bg-green-600\",\"children\":[\"Return to Homepage\",[\"$\",\"svg\",null,{\"ref\":\"$undefined\",\"xmlns\":\"http://www.w3.org/2000/svg\",\"width\":20,\"height\":20,\"viewBox\":\"0 0 24 24\",\"fill\":\"none\",\"stroke\":\"currentColor\",\"strokeWidth\":2.5,\"strokeLinecap\":\"round\",\"strokeLinejoin\":\"round\",\"className\":\"lucide lucide-arrow-right ml-2\",\"aria-hidden\":\"true\",\"children\":[[\"$\",\"path\",\"1ays0h\",{\"d\":\"M5 12h14\"}],[\"$\",\"path\",\"xquz4c\",{\"d\":\"m12 5 7 7-7 7\"}],\"$undefined\"]}]]}]]}],[]],\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}]}],[\"$\",\"footer\",null,{\"className\":\"mt-20 border-gray-200 border-t py-10 text-center text-lg dark:border-card\",\"children\":[\"$L8\",\"$L9\"]}]]}]]}]]}],{\"children\":[\"$La\",{\"children\":[\"$Lb\",{\"children\":[\"$Lc\",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],\"$Ld\",false]],\"m\":\"$undefined\",\"G\":[\"$e\",[]],\"S\":true}\n"])</script><script>self.__next_f.push([1,"f:I[8482,[\"/_next/static/chunks/2f27a62e02032489.js\",\"/_next/static/chunks/786b5716da7c9450.js\",\"/_next/static/chunks/a7fd9e73474ebd21.js\",\"/_next/static/chunks/2805fcd0b3c95426.js\"],\"default\"]\n10:I[15697,[\"/_next/static/chunks/f58dfaf2f655542e.js\",\"/_next/static/chunks/7885088173881a17.js\"],\"ClientPageRoot\"]\n11:I[41101,[\"/_next/static/chunks/2f27a62e02032489.js\",\"/_next/static/chunks/786b5716da7c9450.js\",\"/_next/static/chunks/a7fd9e73474ebd21.js\",\"/_next/static/chunks/2805fcd0b3c95426.js\",\"/_next/static/chunks/e70a0cb32e23ae2b.js\",\"/_next/static/chunks/8f409289da7c2787.js\",\"/_next/static/chunks/804e43d78c889098.js\",\"/_next/static/chunks/f1a43d0cb3c6e4ce.js\",\"/_next/static/chunks/a376ba34db7a5e2f.js\",\"/_next/static/chunks/6ad6d65e89d74c0e.js\"],\"default\"]\n14:I[33469,[\"/_next/static/chunks/f58dfaf2f655542e.js\",\"/_next/static/chunks/7885088173881a17.js\"],\"OutletBoundary\"]\n15:\"$Sreact.suspense\"\n17:I[33469,[\"/_next/static/chunks/f58dfaf2f655542e.js\",\"/_next/static/chunks/7885088173881a17.js\"],\"ViewportBoundary\"]\n19:I[33469,[\"/_next/static/chunks/f58dfaf2f655542e.js\",\"/_next/static/chunks/7885088173881a17.js\"],\"MetadataBoundary\"]\n8:[\"$\",\"div\",null,{\"className\":\"group relative mx-auto max-w-[446px]\",\"children\":[\"$\",\"$Lf\",null,{}]}]\n9:[\"$\",\"span\",null,{\"className\":\"mt-9 flex w-full justify-center text-center text-sm\",\"children\":[\"© 2025\",\" \",[\"$\",\"a\",null,{\"href\":\"/\",\"className\":\"ml-1 text-green-500\",\"children\":\"BloxScript\"}],\". All rights reserved.\"]}]\na:[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L4\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}]]}]\nb:[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L4\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}]]}]\nc:[\"$\",\"$1\",\"c\",{\"children\":[[\"$\",\"$L10\",null,{\"Component\":\"$11\",\"serverProvidedParams\":{\"searchParams\":{},\"params\":{},\"promises\":[\"$@12\",\"$@13\"]}}],[[\"$\",\"script\",\"script-0\",{\"src\":\"/_next/static/chunks/e70a0cb32e23ae2b.js\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-1\",{\"src\":\"/_next/static/chunks/8f409289da7c2787.js\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-2\",{\"src\":\"/_next/static/chunks/804e43d78c889098.js\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-3\",{\"src\":\"/_next/static/chunks/f1a43d0cb3c6e4ce.js\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-4\",{\"src\":\"/_next/static/chunks/a376ba34db7a5e2f.js\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-5\",{\"src\":\"/_next/static/chunks/6ad6d65e89d74c0e.js\",\"async\":true,\"nonce\":\"$undefined\"}]],[\"$\",\"$L14\",null,{\"children\":[\"$\",\"$15\",null,{\"name\":\"Next.MetadataOutlet\",\"children\":\"$@16\"}]}]]}]\nd:[\"$\",\"$1\",\"h\",{\"children\":[null,[\"$\",\"$L17\",null,{\"children\":\"$@18\"}],[\"$\",\"div\",null,{\"hidden\":true,\"children\":[\"$\",\"$L19\",null,{\"children\":[\"$\",\"$15\",null,{\"name\":\"Next.Metadata\",\"children\":\"$@1a\"}]}]}],[\"$\",\"meta\",null,{\"name\":\"next-size-adjust\",\"content\":\"\"}]]}]\n"])</script><script>self.__next_f.push([1,"12:{}\n13:\"$c:props:children:0:props:serverProvidedParams:params\"\n"])</script><script>self.__next_f.push([1,"18:[[\"$\",\"meta\",\"0\",{\"charSet\":\"utf-8\"}],[\"$\",\"meta\",\"1\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}]]\n"])</script><script>self.__next_f.push([1,"1b:I[24305,[\"/_next/static/chunks/f58dfaf2f655542e.js\",\"/_next/static/chunks/7885088173881a17.js\"],\"IconMark\"]\n"])</script><script>self.__next_f.push([1,"1a:[[\"$\",\"title\",\"0\",{\"children\":\"Live Items Block Spin - BloxScript\"}],[\"$\",\"meta\",\"1\",{\"name\":\"description\",\"content\":\"Redirecting Experience the most advanced Block Spin Script — the ultimate tool for tracking live in-game items in real time. Instantly view and monitor active drops, and join specific servers directly using Job ID. Optimized for 2025, lightning-fast, and 100% reliable on both PC and mobile.\"}],[\"$\",\"link\",\"2\",{\"rel\":\"manifest\",\"href\":\"/manifest.json\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"meta\",\"3\",{\"name\":\"robots\",\"content\":\"index,follow\"}],[\"$\",\"link\",\"4\",{\"rel\":\"canonical\",\"href\":\"https://blox-script.com/block-spin/items-snipe\"}],[\"$\",\"meta\",\"5\",{\"property\":\"og:title\",\"content\":\"Live Items Block Spin - BloxScript\"}],[\"$\",\"meta\",\"6\",{\"property\":\"og:description\",\"content\":\"Redirecting Experience the most advanced Block Spin Script — the ultimate tool for tracking live in-game items in real time. Instantly view and monitor active drops, and join specific servers directly using Job ID. Optimized for 2025, lightning-fast, and 100% reliable on both PC and mobile.\"}],[\"$\",\"meta\",\"7\",{\"property\":\"og:url\",\"content\":\"https://blox-script.com/block-spin/items-snipe\"}],[\"$\",\"meta\",\"8\",{\"property\":\"og:site_name\",\"content\":\"BloxScript\"}],[\"$\",\"meta\",\"9\",{\"property\":\"og:image\",\"content\":\"https://blox-script.com/assets/images/website-1.jpg\"}],[\"$\",\"meta\",\"10\",{\"property\":\"og:image:alt\",\"content\":\"Blox Script Image 1\"}],[\"$\",\"meta\",\"11\",{\"property\":\"og:image:type\",\"content\":\"image/jpeg\"}],[\"$\",\"meta\",\"12\",{\"property\":\"og:image:width\",\"content\":\"1200\"}],[\"$\",\"meta\",\"13\",{\"property\":\"og:image:height\",\"content\":\"630\"}],[\"$\",\"meta\",\"14\",{\"property\":\"og:type\",\"content\":\"website\"}],[\"$\",\"meta\",\"15\",{\"name\":\"twitter:card\",\"content\":\"summary_large_image\"}],[\"$\",\"meta\",\"16\",{\"name\":\"twitter:site\",\"content\":\"@site\"}],[\"$\",\"meta\",\"17\",{\"name\":\"twitter:creator\",\"content\":\"@handle\"}],[\"$\",\"meta\",\"18\",{\"name\":\"twitter:title\",\"content\":\"Live Items Block Spin - BloxScript\"}],[\"$\",\"meta\",\"19\",{\"name\":\"twitter:description\",\"content\":\"Redirecting Experience the most advanced Block Spin Script — the ultimate tool for tracking live in-game items in real time. Instantly view and monitor active drops, and join specific servers directly using Job ID. Optimized for 2025, lightning-fast, and 100% reliable on both PC and mobile.\"}],[\"$\",\"meta\",\"20\",{\"name\":\"twitter:image\",\"content\":\"https://blox-script.com/assets/images/website-1.jpg\"}],[\"$\",\"meta\",\"21\",{\"name\":\"twitter:image:alt\",\"content\":\"Blox Script Image 1\"}],[\"$\",\"meta\",\"22\",{\"name\":\"twitter:image:type\",\"content\":\"image/jpeg\"}],[\"$\",\"meta\",\"23\",{\"name\":\"twitter:image:width\",\"content\":\"1200\"}],[\"$\",\"meta\",\"24\",{\"name\":\"twitter:image:height\",\"content\":\"630\"}],[\"$\",\"link\",\"25\",{\"rel\":\"icon\",\"href\":\"/favicon-32x32.png\",\"sizes\":\"32x32\",\"type\":\"image/png\"}],[\"$\",\"link\",\"26\",{\"rel\":\"icon\",\"href\":\"/favicon-16x16.png\",\"sizes\":\"16x16\",\"type\":\"image/png\"}],[\"$\",\"link\",\"27\",{\"rel\":\"icon\",\"href\":\"/favicon.ico\",\"type\":\"image/x-icon\"}],[\"$\",\"link\",\"28\",{\"rel\":\"apple-touch-icon\",\"href\":\"/apple-touch-icon.png\",\"sizes\":\"180x180\",\"type\":\"image/png\"}],[\"$\",\"link\",\"29\",{\"rel\":\"apple-touch-icon\",\"href\":\"/apple-touch-icon-precomposed.png\",\"sizes\":\"180x180\",\"type\":\"image/png\"}],[\"$\",\"link\",\"30\",{\"rel\":\"icon\",\"href\":\"/android-chrome-192x192.png\",\"sizes\":\"192x192\",\"type\":\"image/png\"}],[\"$\",\"link\",\"31\",{\"rel\":\"icon\",\"href\":\"/android-chrome-512x512.png\",\"sizes\":\"512x512\",\"type\":\"image/png\"}],[\"$\",\"$L1b\",\"32\",{}]]\n"])</script><script>self.__next_f.push([1,"16:null\n"])</script>
+   </body>
+</html>
